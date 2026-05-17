@@ -1,7 +1,8 @@
 # [TYTUŁ ARTYKUŁU: np. AI w służbie kodu – jak sztuczna inteligencja zmienia cykl życia oprogramowania]
 
-## Wstęp
-*Wskazówka dla studentów: W tym miejscu wprowadźcie czytelnika w temat. Napiszcie, dlaczego integracja AI z systemami kontroli wersji (VCS) jest obecnie jednym z najważniejszych trendów w IT.*
+Wstęp: Koniec Cyfrowego Snu
+Stoimy na krawędzi największego wstrząsu na globalnym rynku pracy od czasów rewolucji przemysłowej. Przez lata karmieni byliśmy zgubną iluzją, że nauka programowania i wejście do branży IT to ostateczny złoty bilet do dożywotniej stabilności, prestiżu i nieograniczonego bogactwa. Dziś ten bilet okazuje się bezwartościowym świstkiem papieru w starciu z bezlitosną i błyskawiczną ewolucją sztucznej inteligencji. Umiejętność pisania kodu, która do niedawna stanowiła fundament nowoczesnej gospodarki i wyłączną domenę wąskiej elity specjalistów, na naszych oczach staje się tanim, masowo i darmowo generowanym przez algorytmy towarem.
+Niniejszy tekst to brutalne zderzenie z rzeczywistością i dzwonek alarmowy dla wszystkich, którzy wciąż naiwnie wierzą w nietykalność sektora technologicznego. Obnażamy w nim niewygodną prawdę, o której korporacje wolałyby milczeć: generatywna sztuczna inteligencja nie jest jedynie niewinnym asystentem mającym ułatwić nam życie – to bezwzględny substytut ludzkiej pracy intelektualnej. Aby przetrwać nadciągające cyfrowe tsunami, zmuszeni jesteśmy porzucić mrzonki o wiecznej dominacji informatyków i natychmiast zwrócić wzrok ku twardym fundamentom naszej cywilizacji – pracy fizycznej, materii i budownictwu. Czas ucieka, zegar tyka, a ostateczne odliczanie dla branży IT już się rozpoczęło.
 
 ## 1. Agentic AI i inteligentna orkiestracja
 **Agentic AI** to koncepcja, w której sztuczna inteligencja przestaje być tylko prostym asystentem, a staje się aktywnym uczestnikiem procesu deweloperskiego [1, 2]. Platformy takie jak GitLab Duo wykorzystują agenty AI do:
