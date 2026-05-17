@@ -1,44 +1,16 @@
-# [TYTUŁ ARTYKUŁU: np. AI w służbie kodu – jak sztuczna inteligencja zmienia cykl życia oprogramowania]
 
 Wstęp: Koniec Cyfrowego Snu
 Stoimy na krawędzi największego wstrząsu na globalnym rynku pracy od czasów rewolucji przemysłowej. Przez lata karmieni byliśmy zgubną iluzją, że nauka programowania i wejście do branży IT to ostateczny złoty bilet do dożywotniej stabilności, prestiżu i nieograniczonego bogactwa. Dziś ten bilet okazuje się bezwartościowym świstkiem papieru w starciu z bezlitosną i błyskawiczną ewolucją sztucznej inteligencji. Umiejętność pisania kodu, która do niedawna stanowiła fundament nowoczesnej gospodarki i wyłączną domenę wąskiej elity specjalistów, na naszych oczach staje się tanim, masowo i darmowo generowanym przez algorytmy towarem.
 Niniejszy tekst to brutalne zderzenie z rzeczywistością i dzwonek alarmowy dla wszystkich, którzy wciąż naiwnie wierzą w nietykalność sektora technologicznego. Obnażamy w nim niewygodną prawdę, o której korporacje wolałyby milczeć: generatywna sztuczna inteligencja nie jest jedynie niewinnym asystentem mającym ułatwić nam życie – to bezwzględny substytut ludzkiej pracy intelektualnej. Aby przetrwać nadciągające cyfrowe tsunami, zmuszeni jesteśmy porzucić mrzonki o wiecznej dominacji informatyków i natychmiast zwrócić wzrok ku twardym fundamentom naszej cywilizacji – pracy fizycznej, materii i budownictwu. Czas ucieka, zegar tyka, a ostateczne odliczanie dla branży IT już się rozpoczęło.
 
-## 1. Agentic AI i inteligentna orkiestracja
-**Agentic AI** to koncepcja, w której sztuczna inteligencja przestaje być tylko prostym asystentem, a staje się aktywnym uczestnikiem procesu deweloperskiego [1, 2]. Platformy takie jak GitLab Duo wykorzystują agenty AI do:
-*   **Automatycznej zamiany zgłoszeń (issues) w propozycje zmian (merge requests)** [2, 3].
-*   **Naprawiania luk w zabezpieczeniach** i przeprowadzania wstępnych recenzji kodu [3].
-*   Automatyzacji powtarzalnych zadań, przy jednoczesnym zachowaniu kontroli dewelopera nad procesem [3].
+## 1.Koniec Złotej Ery IT
+Przez ostatnie dwie dekady branża IT przypominała współczesne Eldorado. Programiści, testerzy i analitycy cieszyli się statusem nietykalnej elity, dyktując warunki na rynku pracy. Dziś ta bańka nie tyle pęka, co zostaje brutalnie rozerwana przez rewolucję, której sami informatycy dali początek. Złota era dobiegła końca. Generatywna sztuczna inteligencja przestała być jedynie ciekawostką z laboratoriów badawczych – stała się bezwzględnym, wysoce zoptymalizowanym egzekutorem, który uderza w same fundamenty sektora technologicznego.
 
-## 2. Ekosystem AI na platformie GitHub
-GitHub rozwija szeroki wachlarz narzędzi wspieranych przez AI, które integrują się bezpośrednio z przepływem pracy programisty [4]. Do kluczowych rozwiązań należą:
-*   **GitHub Copilot:** Działający jako „AI pair programmer”, który sugeruje bloki kodu na podstawie komentarzy i istniejącej treści [5].
-*   **GitHub Spark:** Narzędzie do budowania i wdrażania inteligentnych aplikacji [4].
-*   **GitHub Models:** Platforma do zarządzania i porównywania promptów [4].
-Sztuczna inteligencja odpowiada już za niemal **40% kodu** w popularnych językach, takich jak Python, w plikach, gdzie Copilot jest włączony [6].
+## 2.Rzeź na Rynku Pracy i Iluzja Niezastąpioności
+Wielu ekspertów wciąż łudzi się, że AI to jedynie "kolejne narzędzie", które ma ułatwić pracę, a nie ją odebrać. To naiwność zakrawająca o ignorancję. Modele językowe i autonomiczni agenci już teraz są w stanie pisać, debugować i optymalizować tysiące linijek kodu w ułamku sekundy – bez przerw na kawę, bez żądań podwyżek i bez wypalenia zawodowego. Obecna fala masowych zwolnień w gigantach technologicznych (Big Tech) to zaledwie preludium. Poziom "Junior" praktycznie przestał istnieć, a "Mid" jest systematycznie pożerany przez algorytmy. Nawet rzekomo bezpieczni Seniorzy wkrótce zredukowani zostaną do roli operatorów zatwierdzających pracę maszyn, zanim i ten etap zostanie w pełni zautomatyzowany.
 
-## 3. Kontrowersje prawne i kwestia własności intelektualnej
-Rozwój narzędzi AI w ekosystemie Git nie odbywa się bez przeszkód. Największą kontrowersją jest **GitHub Copilot Litigation** – pozew zbiorowy dotyczący trenowania modeli na miliardach linii kodu open-source [7, 8]. Główne zarzuty to:
-*   **Naruszenie licencji open-source** poprzez ignorowanie warunków udostępniania kodu (np. braku podania autora) [7, 9].
-*   Wykorzystywanie kodu publicznego tak, jakby znajdował się w domenie publicznej [8].
-*   Ryzyko, że AI może sugerować duże fragmenty kodu objęte licencją bez powiadomienia o tym użytkownika [5].
+## 3.Ostateczny Cios: Przestarzałe Kompetencje
+Wiedza, której zdobycie wymagało lat ślęczenia przed ekranem, dewaluuje się dziś w tempie wykładniczym. Klepanie kodu stało się czynnością odtwórczą, a w starciu z bezduszną, cyfrową precyzją, ludzki umysł – podatny na zmęczenie i błędy – nie ma najmniejszych szans. Utrzymywanie armii programistów staje się dla korporacji ekonomicznie nieuzasadnione. Kiedy sztuczna inteligencja osiągnie zdolność do samodzielnego projektowania całych architektur systemowych, 95% stanowisk w IT stanie się po prostu zbędnym balastem finansowym.
 
-## 4. Przyszłość kontroli wersji i Git 3.0
-Przyszłość Gita to połączenie stabilności technicznej z nowymi standardami. Spodziewane wydanie **Git 3.0** (koniec 2026 r.) wprowadzi nazwę `main` jako domyślną oraz kontynuację migracji na bezpieczniejszy algorytm **SHA-256** [10, 11]. 
-
-Wyzwania, przed którymi stoi ekosystem, to m.in.:
-*   **Skalowalność monorepozytoriów** i obsługa bardzo dużych plików [12].
-*   **Paradoks decentralizacji** – mimo rozproszonej natury Gita, rynek silnie koncentruje się wokół platformy GitHub należącej do Microsoftu [12].
-*   Pojawienie się nowej konkurencji w postaci systemów opartych na **blockchainie** [12, 13].
-
-## Podsumowanie
-*Zgodnie z zebranymi danymi, dojść można do konkluzji, że AI prędzej lub później przejmie branżę IT oraz zastąpi 95% programistów i innych pracujących w szeroko pojętym obszarze informatycznym.
-Zaleca się aktualizację CV oraz jak najszybsze wysłanie ich do obszarów, które nie są zagrożone zastąpieniem przez rozwijającą się szybko sztuczną inteligencję.
-Szacuje się ogromny nacisk na zawody budowlane, gdzie runek zostanie zalany w najbliższej przyszłości - praca w rejonach budowlanych, która przez wiele lat będzie potrzebowała nadzoru człowieka.*
-
----
-### Bibliografia (Przykładowe źródła do uzupełnienia przez grupę)
-* [4] About GitHub · GitHub.
-* [1] Finally, AI for the entire software lifecycle, GitLab.
-* [7] GitHub Copilot Intellectual Property Litigation.
-* [11] Wszystkie notatki z 5/13/2026.
+## 4.Powrót do Materii: Fizyczność jako Ostatni Bastion
+W obliczu tej cyfrowej zagłady, jedynym bezpiecznym azylem staje się to, czego AI (przynajmniej na razie) nie posiada – fizyczne ciało i zdolność interakcji ze światem materialnym. Klawiatury i monitory przestają być narzędziami kreacji bogactwa. Przyszłość należy do tych, którzy potrafią budować, naprawiać i kształtować rzeczywistość poza wirtualną chmurą. Branża budowlana, inżynieria lądowa, elektryka czy zaawansowane rzemiosło to sektory, w których ludzkie ręce, zdolność adaptacji w terenie i nadzór nad materią pozostaną niezastąpione przez kolejne dekady.
