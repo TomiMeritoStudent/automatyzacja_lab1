@@ -32,7 +32,9 @@ Wyzwania, przed którymi stoi ekosystem, to m.in.:
 *   Pojawienie się nowej konkurencji w postaci systemów opartych na **blockchainie** [12, 13].
 
 ## Podsumowanie
-*Wskazówka: Podsumujcie zebrane informacje. Czy Waszym zdaniem AI zastąpi programistów, czy jedynie zmieni charakter ich pracy z systemem Git? [13, 14]*
+*Zgodnie z zebranymi danymi, dojść można do konkluzji, że AI prędzej lub później przejmie branżę IT oraz zastąpi 95% programistów i innych pracujących w szeroko pojętym obszarze informatycznym.
+Zaleca się aktualizację CV oraz jak najszybsze wysłanie ich do obszarów, które nie są zagrożone zastąpieniem przez rozwijającą się szybko sztuczną inteligencję.
+Szacuje się ogromny nacisk na zawody budowlane, gdzie runek zostanie zalany w najbliższej przyszłości - praca w rejonach budowlanych, która przez wiele lat będzie potrzebowała nadzoru człowieka.*
 
 ---
 ### Bibliografia (Przykładowe źródła do uzupełnienia przez grupę)
