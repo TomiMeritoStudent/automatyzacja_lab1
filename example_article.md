@@ -1,7 +1,4 @@
-# [TYTUŁ ARTYKUŁU: np. AI w służbie kodu – jak sztuczna inteligencja zmienia cykl życia oprogramowania]
 
-## Wstęp
-*Wskazówka dla studentów: W tym miejscu wprowadźcie czytelnika w temat. Napiszcie, dlaczego integracja AI z systemami kontroli wersji (VCS) jest obecnie jednym z najważniejszych trendów w IT.*
 
 ## 1.Koniec Złotej Ery IT
 Przez ostatnie dwie dekady branża IT przypominała współczesne Eldorado. Programiści, testerzy i analitycy cieszyli się statusem nietykalnej elity, dyktując warunki na rynku pracy. Dziś ta bańka nie tyle pęka, co zostaje brutalnie rozerwana przez rewolucję, której sami informatycy dali początek. Złota era dobiegła końca. Generatywna sztuczna inteligencja przestała być jedynie ciekawostką z laboratoriów badawczych – stała się bezwzględnym, wysoce zoptymalizowanym egzekutorem, który uderza w same fundamenty sektora technologicznego.
@@ -14,18 +11,3 @@ Wiedza, której zdobycie wymagało lat ślęczenia przed ekranem, dewaluuje się
 
 ## 4.Powrót do Materii: Fizyczność jako Ostatni Bastion
 W obliczu tej cyfrowej zagłady, jedynym bezpiecznym azylem staje się to, czego AI (przynajmniej na razie) nie posiada – fizyczne ciało i zdolność interakcji ze światem materialnym. Klawiatury i monitory przestają być narzędziami kreacji bogactwa. Przyszłość należy do tych, którzy potrafią budować, naprawiać i kształtować rzeczywistość poza wirtualną chmurą. Branża budowlana, inżynieria lądowa, elektryka czy zaawansowane rzemiosło to sektory, w których ludzkie ręce, zdolność adaptacji w terenie i nadzór nad materią pozostaną niezastąpione przez kolejne dekady.
-
-Wyzwania, przed którymi stoi ekosystem, to m.in.:
-*   **Skalowalność monorepozytoriów** i obsługa bardzo dużych plików [12].
-*   **Paradoks decentralizacji** – mimo rozproszonej natury Gita, rynek silnie koncentruje się wokół platformy GitHub należącej do Microsoftu [12].
-*   Pojawienie się nowej konkurencji w postaci systemów opartych na **blockchainie** [12, 13].
-
-## Podsumowanie
-*Wskazówka: Podsumujcie zebrane informacje. Czy Waszym zdaniem AI zastąpi programistów, czy jedynie zmieni charakter ich pracy z systemem Git? [13, 14]*
-
----
-### Bibliografia (Przykładowe źródła do uzupełnienia przez grupę)
-* [4] About GitHub · GitHub.
-* [1] Finally, AI for the entire software lifecycle, GitLab.
-* [7] GitHub Copilot Intellectual Property Litigation.
-* [11] Wszystkie notatki z 5/13/2026.
